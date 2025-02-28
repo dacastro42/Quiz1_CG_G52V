@@ -14,7 +14,14 @@ public class Quiz1_CG_G52V {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        //cree la instancia de MapeoColoresRGB
+        
+        // Agregar colores Ej: "Rojo", 255, 0, 0
+        
+        // Mostrar colores ordenados alfabéticamente
+        
+        // Buscar colores
     }
     
 }
